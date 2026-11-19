@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "FM-1 Chop",
+  "short_name": "FM-1 Chop",
+  "description": "Chop audio into 16 pads and send them to an FM-1 running Felucca.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#c9c6bd",
+  "theme_color": "#c9c6bd",
+  "categories": ["music", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
